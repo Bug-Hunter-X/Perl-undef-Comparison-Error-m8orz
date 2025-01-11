@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when comparing variables to undef. The bug.pl file contains code with an incorrect check, while bugSolution.pl provides the correct solution.  The issue stems from Perl's handling of undef values in comparisons.  The solution highlights the proper way to test for undef using defined().
